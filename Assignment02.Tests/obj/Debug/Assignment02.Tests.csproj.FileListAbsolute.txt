@@ -1,0 +1,13 @@
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\obj\Debug\Assignment02.Tests.csproj.AssemblyReference.cache
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\obj\Debug\Assignment02.Tests.csproj.CoreCompileInputs.cache
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\bin\Debug\Assignment02.Tests.exe.config
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\bin\Debug\Assignment02.Tests.exe
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\bin\Debug\Assignment02.Tests.pdb
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\bin\Debug\Assignment2UnitTest.exe
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\bin\Debug\nunit.framework.dll
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\bin\Debug\Assignment2UnitTest.pdb
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\bin\Debug\Assignment2UnitTest.exe.config
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\bin\Debug\nunit.framework.xml
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\obj\Debug\Assignment02.Tests.csproj.CopyComplete
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\obj\Debug\Assignment02.Tests.exe
+D:\Assignment2\Assignment2UnitTest\Assignment02.Tests\obj\Debug\Assignment02.Tests.pdb
