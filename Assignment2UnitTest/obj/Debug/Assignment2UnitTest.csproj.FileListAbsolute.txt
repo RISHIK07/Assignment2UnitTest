@@ -1,7 +1,6 @@
 D:\Assignment2\Assignment2UnitTest\Assignment2UnitTest\bin\Debug\Assignment2UnitTest.exe.config
 D:\Assignment2\Assignment2UnitTest\Assignment2UnitTest\bin\Debug\Assignment2UnitTest.exe
 D:\Assignment2\Assignment2UnitTest\Assignment2UnitTest\bin\Debug\Assignment2UnitTest.pdb
-D:\Assignment2\Assignment2UnitTest\Assignment2UnitTest\obj\Debug\Assignment2UnitTest.csproj.AssemblyReference.cache
 D:\Assignment2\Assignment2UnitTest\Assignment2UnitTest\obj\Debug\Assignment2UnitTest.csproj.CoreCompileInputs.cache
 D:\Assignment2\Assignment2UnitTest\Assignment2UnitTest\obj\Debug\Assignment2UnitTest.exe
 D:\Assignment2\Assignment2UnitTest\Assignment2UnitTest\obj\Debug\Assignment2UnitTest.pdb
